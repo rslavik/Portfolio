@@ -32,7 +32,11 @@ https://www.sanity.io/javascriptmastery
 - Terminal: ctrl + c to stop running
 
 2. SCHEMAS
-- Create testimonials.js in schemas folder: actually do testimonials.ts (typescript - help with debugging javascript - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-<!-- - Rename index.js to schema.js -->
+- Create testimonials.js in schemas folder
+- Video uses old version of sanity.  
+    - Solution found on: https://www.sanity.io/docs/create-a-schema-and-configure-sanity-studio
+
+<!-- actually do testimonials.ts (typescript - help with debugging javascript - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- Rename index.js to schema.js -->
 
 SANITY START: npm run dev
